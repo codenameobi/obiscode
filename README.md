@@ -5,6 +5,7 @@
 #### Azure Cloud Services
 #### UI/UX Designs
 
+![Obiora Nwude's github stats](https://github-readme-stats.vercel.app/api?username=obiscode)
 
 
 
