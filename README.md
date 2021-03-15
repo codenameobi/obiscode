@@ -1,6 +1,6 @@
 ## Hi there, I'm Obi! 👋
 
-Hi, I'm Anurag Hazra, a passionate self-taught web developer and mobile developer from Nigeria.
+Hi, I'm Obiora Nwude, a passionate self-taught web developer and mobile developer from Nigeria.
 
 
     *🔭 I’m currently working on Android, Flutter, Azure Cloud Services
