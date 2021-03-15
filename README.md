@@ -1,9 +1,17 @@
-### - 🔭 I’m currently working on ...
+## Hi there, I'm Obi! 👋
 
-#### Android
-#### Flutter
-#### Azure Cloud Services
-#### UI/UX Designs
+Hi, I'm Anurag Hazra, a passionate self-taught web developer and mobile developer from Nigeria.
+
+
+    *🔭 I’m currently working on Android, Flutter, Azure Cloud Services
+    *🌱 I’m currently learning 
+     *Azure Cloud Services on ALC & Microsoft 4Afrika Skillslab
+     *Flutter 
+    *👯 I’m looking to collaborate 
+    *💬 Ask me about anything here
+    
+## I am Open to Work 
+
 
 
 ![Obiora Nwude's github stats](https://github-readme-stats.vercel.app/api?username=obiscode)
