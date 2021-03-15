@@ -3,17 +3,17 @@
 Hi, I'm Obiora Nwude, a passionate self-taught web developer and mobile developer from Nigeria.
 
 
-    *🔭 I’m currently working on Android, Flutter, Azure Cloud Services
-    *🌱 I’m currently learning 
-     *Azure Cloud Services on ALC & Microsoft 4Afrika Skillslab
-     *Flutter 
-    *👯 I’m looking to collaborate 
-    *💬 Ask me about anything here
+    * 🔭 I’m currently working on Android, Flutter, Azure Cloud Services
+    * 🌱 I’m currently learning 
+     * Azure Cloud Services on ALC & Microsoft 4Afrika Skillslab
+     * Flutter 
+    * 👯 I’m looking to collaborate 
+    * 💬 Ask me about anything here
     
-## I am Open to Work 
+### I am Open to Work 
 
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 ![Obiora Nwude's github stats](https://github-readme-stats.vercel.app/api?username=obiscode)
 
