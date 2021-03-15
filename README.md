@@ -9,7 +9,7 @@
 ![Obiora Nwude's github stats](https://github-readme-stats.vercel.app/api?username=obiscode)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiscode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=obiscode)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
