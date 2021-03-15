@@ -3,12 +3,12 @@
 Hi, I'm Obiora Nwude, a passionate self-taught web developer and mobile developer from Nigeria.
 
 
-    * 🔭 I’m currently working on Android, Flutter, Azure Cloud Services
-    * 🌱 I’m currently learning 
-     * Azure Cloud Services on ALC & Microsoft 4Afrika Skillslab
-     * Flutter 
-    * 👯 I’m looking to collaborate 
-    * 💬 Ask me about anything here
+    *  🔭 I’m currently working on Android, Flutter, Azure Cloud Services
+    *  🌱 I’m currently learning 
+     *  Azure Cloud Services on ALC & Microsoft 4Afrika Skillslab
+     *  Flutter 
+    *  👯 I’m looking to collaborate 
+    *  💬 Ask me about anything here
     
 ### I am Open to Work 
 
