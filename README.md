@@ -1,16 +1,12 @@
 ### - 🔭 I’m currently working on ...
 
-### Android
-### Flutter
-### Azure Cloud Services
-### UI/UX Designs
+#### Android
+#### Flutter
+#### Azure Cloud Services
+#### UI/UX Designs
 
 
-{{ ISSUES }}
 
-{{ PULL_REQUEST }}
-
-{{ COMMITS }}
 
 <!--
 **obiscode/obiscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
