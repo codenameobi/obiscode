@@ -13,6 +13,7 @@ Hi, I'm Obiora Nwude, a passionate self-taught web developer and mobile develope
 ## I am Open to Work 
 
 
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
 ![Obiora Nwude's github stats](https://github-readme-stats.vercel.app/api?username=obiscode)
 
